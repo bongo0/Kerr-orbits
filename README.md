@@ -7,4 +7,5 @@ The visualization of the orbit and the interesting surfaces of the black hole (e
 The equations of motion for the photon are integrated using a simple RK4 method, [rk4](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods).
 
 See e.g. [Kerr-metric](https://en.wikipedia.org/wiki/Kerr_metric)
+
 ![example](/orbit.gif)
