@@ -6,4 +6,4 @@ The visualization of the orbit and the interesting surfaces of the black hole (e
 
 The equations of motion for the photon are integrated using a simple RK4 method.
 
-![example](/orbit.png)
+![example](/orbit.gif)
